@@ -140,6 +140,12 @@
     </dependency>
   </dependencies>
 
+  <scm>
+    <connection>scm:git:https://github.com/yfs666/yfs-study-web.git</connection>
+    <developerConnection>scm:git:https://github.com/yfs666/yfs-study-web.git</developerConnection>
+    <url>scm:git:https://github.com/yfs666</url>
+  </scm>
+
 
   <build>
     <finalName>yfs-study-web</finalName>
